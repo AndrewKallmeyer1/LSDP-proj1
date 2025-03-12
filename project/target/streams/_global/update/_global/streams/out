@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = true, force = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/Users/andrewkallmeyer/LSDP-proj1/project/"), "lsdp-proj1-build")...[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating lsdp-proj1-build[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved lsdp-proj1-build dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of lsdp-proj1-build[0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of lsdp-proj1-build[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/Users/andrewkallmeyer/LSDP-proj1/project/"), "lsdp-proj1-build")[0m
