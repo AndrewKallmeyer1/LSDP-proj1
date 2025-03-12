@@ -38,4 +38,4 @@ Andrew Kallmeyer, Gabriel Geyer, Evan Taylor
 
 ---
 
-This approach varies from the randomized approach only in the way the nonces are allocated (i.e., the line changed in the `main.scala` file). It confirms that all possible nonce assignments in the trial range are covered, as opposed to the randomized approach, which stops when it gets a hit. This does not speed up the process, and only ensures that all nonces are checked. On average, it could be concluded that this approach is actually slower with larger difficulties.
+This approach varies from the randomized approach only in the way the nonces are allocated (i.e., the line changed in the `main.scala` file). It confirms that all possible nonce assignments in the trial range are covered, as opposed to the randomized approach, which stops when it gets a hit. This does not speed up the process, simply ensuring that all nonces are checked. Additonally this adds more overhead, coordinating the nodes, to the process which can slow it down. On average, it could be concluded that this approach is actually slower with larger difficulties.
